@@ -1,10 +1,10 @@
 # VeroPicView
 模仿Vero图片展示
 
-#### 不废话直接看效果(长按后可拖曳图片进行换位)
+## 不废话直接看效果(长按后可拖曳图片进行换位)
 ![1.gif](https://upload-images.jianshu.io/upload_images/2404215-bb3c48ba7288d819.gif?imageMogr2/auto-orient/strip)
 
-#### 使用方法
+## 使用方法
 1. 由于继承自 UIView, 所以引用头文件后像一般控件般使用即可:
 ```objc
     VeroPicView *veroView = [VeroPicView new];
@@ -62,7 +62,5 @@
  */
 - (void)didScrollInVeroPicView:(nonnull __kindof VeroPicView *)veroPicView;
 ```
-最后附上github地址
-https://github.com/Veeco/VeroPicView
 
-##### 最近忙着人生大事很少回复希望大家多多见谅, 如有意见或其它想法可以多多提出, 谢谢!
+### 最近忙着人生大事很少回复希望大家多多见谅, 如有意见或其它想法可以多多提出, 谢谢!
